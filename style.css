@@ -1,0 +1,12 @@
+.para{
+    color:blue
+}
+#para{
+    color:red
+}
+h4{
+    color:green
+}
+h4,h5{
+    color:blueviolet
+}
